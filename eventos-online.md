@@ -20,6 +20,9 @@ Veja com a pessoa responsável pelo site do Meetup.com para a criação do event
 ### 5. Planeje a divulgação do evento para inscrições:
 Lembre-se de divulgar nas redes sociais, comunidades e onde mais for possível fazer esse processo.
 
+### 6. Valide se as pessoas palestrantes conhecem o StreamYard:
+Se necessário, combine um dia ou horário para você apresentar o funcionamento e já fazer testes de internet, áudio, vídeo e compartilhamento de tela.
+
 ## 📝 Passo a passo durante o evento
 ### 0. Apresente-se e apresente a comunidade:
 Faça a abertura do evento se apresentando e contando um pouco sobre a comunidade para que as pessoas possam conhecer.
