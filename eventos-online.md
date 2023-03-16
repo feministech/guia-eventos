@@ -14,7 +14,7 @@ Você pode convidar pessoas para palestrar, abrir uma chamada de palestras (call
 ### 3. Compartilhe o guia de boas práticas:
 Temos um guia com diversas orientações importantes para pessoas palestrantes. Por favor, compartilhe com essas pessoas: [link](https://www.canva.com/design/DAE0ngojrqM/-YSJ5SHEn1UpiKM302erUQ/view?utm_content=DAE0ngojrqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-### 4. Crie as artes de divulgação e overlay para a live
+### 4. Crie as artes de divulgação e overlay para a live:
 Importante reservar um momento para a criação das artes. Entender se já existe um modelo que possa substituir as informações ou outro formato. Validar com o time feminismedia no discord.
 
 ### 5. Planeje a divulgação do evento:
