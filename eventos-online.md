@@ -14,19 +14,22 @@ Você pode convidar pessoas para palestrar, abrir uma chamada de palestras (call
 ### 3. Compartilhe o guia de boas práticas:
 Temos um guia com diversas orientações importantes para pessoas palestrantes. Por favor, compartilhe com essas pessoas: [link](https://www.canva.com/design/DAE0ngojrqM/-YSJ5SHEn1UpiKM302erUQ/view?utm_content=DAE0ngojrqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-### 4. Planeje a divulgação do evento:
+### 4. Crie as artes de divulgação e overlay para a live
+Importante reservar um momento para a criação das artes. Entender se já existe um modelo que possa substituir as informações ou outro formato. Validar com o time feminismedia no discord.
+
+### 5. Planeje a divulgação do evento:
 Lembre-se de divulgar nas redes sociais, comunidades e onde mais for possível fazer esse processo. Utilize o apoio do time feminismedia (basta chamar no servidor do discord).
 
-### 5. Informe os dados do evento para a pessoa responsável pelo bot da Feministech na Twitch:
+### 6. Informe os dados do evento para a pessoa responsável pelo bot da Feministech na Twitch:
 Temos um bot que funciona nos canais das pessoas streamers da Feministech e, nele, disponibilizamos comandos com informações dos eventos que vão acontecer. A pessoa responsável vai te orientar sobre como fazer isso.
 
-### 6. Valide se as pessoas palestrantes conhecem o StreamYard:
+### 7. Valide se as pessoas palestrantes conhecem o StreamYard:
 Costumamos fazer as transmissões de eventos pela ferramenta StreamYard. Se necessário, combine um dia ou horário para você apresentar o funcionamento e já fazer testes de internet, áudio, vídeo e compartilhamento de tela com as pessoas palestrantes. E a trasmissão pode ser combinada, mas provavelmente deverá acontecer no canal oficial da Feministech na [Twitch](https://www.twitch.tv/feministech).
 
-### 7. Verifique a pessoa host:
+### 8. Verifique a pessoa host:
 Você pode ser a pessoa host ou você pode combinar com outra pessoa para ser a host do evento, responsável por iniciar a live, receber as pessoas palestrantes, direcionar as dúvidas, fazer comentários e encerrar o evento com os agradecimentos cabíveis.
 
-### 8. Verifique a disponibilidade de pessoas moderadoras:
+### 9. Verifique a disponibilidade de pessoas moderadoras:
 É importante a presença de pessoas moderadoras no chat da live para garantir segurança e o bom funcionamento de tudo. As pessoas moderadoras serão o seu apoio durante a execução do evento. Faça combinados com elas se necessário.
 
 ## 📝 Passo a passo durante o evento
