@@ -26,13 +26,16 @@ Verifique o patrocínio para disponibilizar alimentação para as pessoas que co
 ### 7. Confirme patrocínio de brindes:
 Nem sempre isso será possível, mas é possível tentar com a empresa do espaço ou alguma outra parceria que faça sentido. Lembre-se de sempre validar a parceria com a comunidade para evitar problemas.
 
-### 8. Crie ou solicite que seja criado o evento no Sympla:
+### 8. Crie as artes de divulgação:
+Importante reservar um momento para a criação das artes. Entender se já existe um modelo que possa substituir as informações ou outro formato. Validar com o time feminismedia no discord.
+
+### 9. Crie ou solicite que seja criado o evento no Sympla:
 Veja com a coordenação da comunidade para a criação do evento dentro da plataforma para que as pessoas possam se inscrever. Caso já tenha as pessoas palestrantes e temas, disponibilize a agenda.
 
-### 9. Planeje a divulgação do evento para inscrições:
+### 10. Planeje a divulgação do evento para inscrições:
 Lembre-se de divulgar nas redes sociais, comunidades e onde mais for possível fazer esse processo. Utilize o apoio do time feminismedia (basta chamar no servidor do discord). E atenção, temos uma regra de que eventos presenciais sempre devem ser divulgados primeiramente dentro do discord. Depois de uma semana, você pode divulgar o evento nas redes sociais. É uma regra que deve ser respeitada para garantirmos que as pessoas de dentro da comunidade tenham prioridade nas inscrições.
 
-### 10. Veja se o espaço tem liberação para crianças:
+### 11. Veja se o espaço tem liberação para crianças:
 É possível que pessoas que tenham filhes se inscrevam no evento e precisem de um espaço para levá-las para que consigam participar.
 
 ## 📝 Passo a passo durante o evento
