@@ -5,7 +5,7 @@ Este é um guia para planejamento de eventos, sejam eles online ou presenciais. 
 
 ## 💎 Organização
 ### 💻 Eventos no formato online
-Entenda como prosseguir com eventos no formato **online** clicando [aqui](https://github.com/GTBrasil/Guia-Planejamento-Eventos/blob/main/eventos-online.md).
+Entenda como prosseguir com eventos no formato **online** clicando [aqui](https://github.com/feministech/Feministalk-Planejamento/blob/main/eventos-online.md).
 
 ### 🗺️ Eventos no formato presencial
-Entenda como prosseguir com eventos no formato **presencial** clicando [aqui](https://github.com/GTBrasil/Guia-Planejamento-Eventos/blob/main/eventos-presenciais.md).
+Entenda como prosseguir com eventos no formato **presencial** clicando [aqui]https://github.com/feministech/Feministalk-Planejamento/blob/main/eventos-presenciais.md).
